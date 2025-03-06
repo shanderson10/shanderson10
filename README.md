@@ -1,8 +1,8 @@
-👋🏾 Hi, I’m Shanika 
-👀 I’m interested in Data Analytics
+🖐🏾Hi, I’m Shanika 
+👀 I’m interested in Data Analytics 
 🌟 I’m currently learning Excel, SQL, Power BI, Tableau, and Python
-🤗 I’m looking to collaborate on projects related to data visualization, machine learning and creating interactive tools for data-driven decision-making.
-🛜 How to reach me by Email, LinkedIn, and GitHub
+🤗 I’m looking to collaborate on projects related to data visualization, machine learning and creating interactive tools for data-driven decision-making
+🛜 How to reach me: Email, LinkedIn, and GitHub
 😊 Fun fact: I have a passion for discovering, learning, and traveling
 
 <!---
